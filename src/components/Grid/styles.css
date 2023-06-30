@@ -1,0 +1,7 @@
+.drop-shadow-right {
+    box-shadow: 2px 1px 2px 0px #ebebeb;
+}
+
+.drop-shadow-left {
+    box-shadow: -2px 1px 2px 0px #ebebeb;
+}
